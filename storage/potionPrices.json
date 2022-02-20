@@ -1,0 +1,386 @@
+{
+	"Bottle Of Expectation":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BottleOfExpectation.png",
+	  "price":450
+	},
+	"Bottle Of Insanity":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BottleOfInsanity.png",
+	  "price":1500
+	},
+	"Brew Of Ignorance":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BrewOfIgnorance.png",
+	  "price":150
+	},
+	"Brew Of Lies":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BrewOfLies.png",
+	  "price":300
+	},
+	"Brew Of The Ancients":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/BrewOfTheAncients.png",
+	  "price":2000
+	},
+	"Clutch Of Justice":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ClutchOfJustice.png",
+	  "price":1400
+	},
+	"Crawler's Grasp":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/Crawler'sGrasp.png",
+	  "price":1300
+	},
+	"Death's Wish":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/Death'sWish.png",
+	  "price":2400
+	},
+	"Draught Of Bloodlust":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfBloohlust.png",
+	  "price":450
+	},
+	"Draught Of Deliriousness":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfDeliriousness.png",
+	  "price":80
+	},
+	"Draught Of Focus":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfFocus.png",
+	  "price":50
+	},
+	"Draught Of Petrification":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfPetrification.png",
+	  "price":700
+	},
+	"Draught Of Spellpower":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfSpellpower.png",
+	  "price":350
+	},
+	"Draught Of The Titans":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/DraughtOfTheTitans.png",
+	  "price":1800
+	},
+	"Elixir Of Darkness":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfDarkness.png",
+	  "price":900
+	},
+	"Elixir Of Illusion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfIllusion.png",
+	  "price":200
+	},
+	"Elixir Of Stupidity":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfStupidity.png",
+	  "price":50
+	},
+	"Elixir Of Taste":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfTaste.png",
+	  "price":150
+	},
+	"Elixir Of The Berserker":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ElixirOfTheBerserker.png",
+	  "price":1200
+	},
+	"Everfall Brew":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/EverfallBrew.png",
+	  "price":50
+	},
+	"Eyedrops Of Phantoms":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/EyedropsOfPhantoms.png",
+	  "price":1000
+	},
+	"Fake Health Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FakeHealthPotion.png",
+	  "price":200
+	},
+	"Fake Mana Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FakeManaPotion.png",
+	  "price":200
+	},
+	"Flask From Below":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskFromBelow.png",
+	  "price":500
+	},
+	"Flask Of Betrayal":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfBetrayal.png",
+	  "price":800
+	},
+	"Flask Of Concentration":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfConcentration.png",
+	  "price":40
+	},
+	"Flask Of Greed":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfGreed.png",
+	  "price":150
+	},
+	"Flask Of Growth":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfGrowth.png",
+	  "price":200
+	},
+	"Flask Of Rainbows":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfRainbows.png",
+	  "price":850
+	},
+	"Flask Of The Dimensions":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheDimensions.png",
+	  "price":1500
+	},
+	"Flask Of The Fire":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheFire.png",
+	  "price":400
+	},
+	"Flask Of The Harvester":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheHarvester.png",
+	  "price":70
+	},
+	"Flask Of The Mountain":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheMountain.png",
+	  "price":70
+	},
+	"Flask Of The Tides":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfTheTides.png",
+	  "price":60
+	},
+	"Flask Of Warmth":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/FlaskOfWarmth.png",
+	  "price":40
+	},
+	"Gift Of The Phoenix":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/GiftOfThePhoenix.png",
+	  "price":2200
+	},
+	"Greater Health Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/GreaterHealthPotion.png",
+	  "price":300
+	},
+	"Greater Mana Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/GreaterManaPotion.png",
+	  "price":300
+	},
+	"Greater Stamina Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/GreaterStaminaPotion.png",
+	  "price":300
+	},
+	"Health Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/HealthPotion.png",
+	  "price":50
+	},
+	"Love Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/LovePotion.png",
+	  "price":1500
+	},
+	"Mana Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/ManaPotion.png",
+	  "price":50
+	},
+	"Oomanoa":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/Oomanoa.png",
+	  "price":2500
+	},
+	"Phial Of The Archer":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhialOfTheArcher.png",
+	  "price":60
+	},
+	"Phial Of Trust":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhialOfTrust.png",
+	  "price":70
+	},
+	"Philter Of Camoflage":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfCamoflage.png",
+	  "price":200
+	},
+	"Philter Of Hatred":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfHatred.png",
+	  "price":600
+	},
+	"Philter Of Influence":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfInfluence.png",
+	  "price":200
+	},
+	"Philter Of Reversed Time":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfReversedTime.png",
+	  "price":2300
+	},
+	"Philter Of The Paragon":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfTheParagon.png",
+	  "price":1800
+	},
+	"Philter Of Thunder":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfThunder.png",
+	  "price":300
+	},
+	"Philter Of Victory":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PhilterOfVictory.png",
+	  "price":60
+	},
+	"Potion Of Arcane Enhancement":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfArcaneEnhancement.png",
+	  "price":400
+	},
+	"Potion Of Clairvoyance":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfClairvoyance.png",
+	  "price":80
+	},
+	"Potion Of Damage Enhancement":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfDamageEnhancement.png",
+	  "price":40
+	},
+	"Potion Of Determination":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfDetermination.png",
+	  "price":100
+	},
+	"Potion Of Evasion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfEvasion.png",
+	  "price":60
+	},
+	"Potion Of Everlasting Breath":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfEverlastingBreath.png",
+	  "price":700
+	},
+	"Potion Of Farsight":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfFarsight.png",
+	  "price":300
+	},
+	"Potion Of Fortification":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfFortification.png",
+	  "price":500
+	},
+	"Potion Of Imbalance":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfImbalance.png",
+	  "price":400
+	},
+	"Potion Of Imperfection":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfImperfection.png",
+	  "price":300
+	},
+	"Potion Of Jealousy":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfJealousy.png",
+	  "price":200
+	},
+	"Potion Of Lava Walking":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfLavaWalking.png",
+	  "price":50
+	},
+	"Potion Of Levitation":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfLevitation.png",
+	  "price":1100
+	},
+	"Potion Of Masking":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfMasking.png",
+	  "price":70
+	},
+	"Potion Of Professions":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfProfessions.png",
+	  "price":40
+	},
+	"Potion Of Purification":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfPurification.png",
+	  "price":200
+	},
+	"Potion Of Regeneration":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfRegeneration.png",
+	  "price":70
+	},
+	"Potion Of Resistance":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfResistance.png",
+	  "price":60
+	},
+	"Potion Of Restriction":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfRestriction.png",
+	  "price":100
+	},
+	"Potion Of Stealth":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfStealth.png",
+	  "price":130
+	},
+	"Potion Of Summoning":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfSummoning.png",
+	  "price":600
+	},
+	"Potion Of The Beginning":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfTheBeginning.png",
+	  "price":1400
+	},
+	"Potion Of Water Walking":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/PotionOfWaterWalking.png",
+	  "price":70
+	},
+	"Stamina Potion":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/StaminaPotion.png",
+	  "price":60
+	},
+	"The Needle":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/TheNeedle.png",
+	  "price":2500
+	},
+	"Tonic Of Joy":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/TonicOfJoy.png",
+	  "price":50
+	},
+	"Tonic Of Poison Resistance":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/TonicOfPoisonResistance.png",
+	  "price":200
+	},
+	"Tonic Of Wind":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/TonicOfWind.png",
+	  "price":40
+	},
+	"Urn Of Excitement":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/UrnOfExcitement.png",
+	  "price":60
+	},
+	"Vial Of Clarity":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfClarity.png",
+	  "price":200
+	},
+	"Vial Of Depressions":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfDepressions.png",
+	  "price":900
+	},
+	"Vial Of Disabling":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfDisabling.png",
+	  "price":200
+	},
+	"Vial Of Experimentation":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfExperimentation.png",
+	  "price":70
+	},
+	"Vial Of Feather Weight":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfFeaterWeight.png",
+	  "price":300
+	},
+	"Vial Of Haste":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfHaste.png",
+	  "price":70
+	},
+	"Vial Of Knowledge":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfKnowledge.png",
+	  "price":200
+	},
+	"Vial Of Luck":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfLuck.png",
+	  "price":600
+	},
+	"Vial Of Neglect":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfNeglect.png",
+	  "price":200
+	},
+	"Vial Of Shielding":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfShielding.png",
+	  "price":300
+	},
+	"Vial Of Sleep":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfSleep.png",
+	  "price":60
+	},
+	"Vial Of Speed":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfSpeed.png",
+	  "price":70
+	},
+	"Vial Of Spores":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfSpores.png",
+	  "price":1000
+	},
+	"Vial Of The Seer":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/VialOfTheSeer.png",
+	  "price":1400
+	},
+	"Witch's Tangle":{
+	  "img":"https://ben-stewart.s3.us-east-2.amazonaws.com/potions/Witch'sTangle.png",
+	  "price":1500
+	}
+  }
